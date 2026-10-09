@@ -136,8 +136,7 @@ nav .wa {
   background: linear-gradient(135deg, #f05a28, #d84717);
   color: #ffffff;
   border-radius: 8px;
-  font-size: 13px;
-  font-weight: 800;
+  font-size: 11px;
   box-shadow: 0 4px 14px rgba(240, 90, 40, 0.28);
   transition:
     background 0.25s ease,
@@ -153,7 +152,6 @@ nav .wa::after {
 nav .wa:hover {
   background: #111111;
   color: #ffffff;
-  transform: translateY(-2px);
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.2);
 }
 
